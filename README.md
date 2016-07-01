@@ -1,8 +1,8 @@
 # raspberry-dht22-sms
 
-This is currently a small project that enables automation of temperature and humidity monitoring.
+This is currently a small project that enables automation of temperature and humidity monitoring in various environments, e.g. server rooms, vine cellars etc.
 
-The idea is to use a sensor and a Raspberry Pi to measure the temperature and humidity in order to notify the interested person when ever the two parameters cross a certain threshold via SMS.
+The idea is to use a sensor and a Raspberry Pi to measure the temperature and humidity of the immediate environments in order to notify the interested person when ever the two parameters cross a certain threshold via SMS.
 
 The DHT22 (A2302) sensor is a digital relative humidity and temperature sensor. Find out more about the sensor in the [datasheet](https://cdn-shop.adafruit.com/datasheets/Digital+humidity+and+temperature+sensor+AM2302.pdf)
 
